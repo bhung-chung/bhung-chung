@@ -52,7 +52,3 @@ A fully functional, low-cost mechanical planetary gear system designed from scra
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhung-chung&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
