@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mashrur Hasan
+# Hi there 👋, I'm Masrur Hasan
 
 ### 🚀 Mechanical Engineer & Machine Learning Enthusiast
 
