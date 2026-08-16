@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Masrur Hasan
+# Hi there 👋, I'm Mashrur Hasan
 
 ### 🚀 Mechanical Engineer & Machine Learning Enthusiast
 
@@ -30,7 +30,12 @@ An end-to-end NLP system for detecting fake news in Bengali text using TF-IDF mo
 - **Tech Stack:** Python, Linear SVM, FastAPI, Docker, Kubernetes
 - **Highlights:** Addressed class imbalance, production-ready REST API, scalable deployment infrastructure.
 
-### 4. ⚙️ [Wooden Planetary Gear System](https://github.com/bhung-chung/Wooden-Planetary-Gear)
+### 4. 🤖 [Autonomous Obstacle Avoiding Robot](https://github.com/bhung-chung/Autonomous-Obstacle-Avoiding-Robot)
+An autonomous wheeled robotics platform featuring real-time infrared telemetry and PWM velocity modulation.
+- **Tech Stack:** Arduino (Embedded C++), L298N Motor Driver, IR Sensors, LM2596 Buck Converter
+- **Highlights:** Built for ME-376 Control Engineering Sessional (Grade: A+ / 5.00), finite state machine navigation, dual-rail power isolation.
+
+### 5. ⚙️ [Wooden Planetary Gear System](https://github.com/bhung-chung/Wooden-Planetary-Gear)
 A fully functional, low-cost mechanical planetary gear system designed from scratch using CAD and manufactured with laser cutting and precision machining.
 - **Tech Stack:** SolidWorks (CAD), Laser Beam Cutting (CNC), Lathe Machining
 - **Highlights:** Highly economical design (repurposed materials), mechanical assembly, and real-world tolerance matching.
@@ -41,8 +46,9 @@ A fully functional, low-cost mechanical planetary gear system designed from scra
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino-00979C?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
@@ -50,5 +56,3 @@ A fully functional, low-cost mechanical planetary gear system designed from scra
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/SOLIDWORKS-E32227?style=flat&logo=solidworks&logoColor=white" alt="SolidWorks"/>
 </p>
-
----
